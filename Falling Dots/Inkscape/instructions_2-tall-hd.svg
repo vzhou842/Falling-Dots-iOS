@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="1016"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="instructions_2-tall-hd.svg"
+   inkscape:export-filename="/Users/Victor/Documents/Custom/XCode/FALLING DOTS/Falling Dots 1.5.0/Falling Dots/Resources/HD/instructions_2-tall-hd.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="350"
+     inkscape:cy="510.21506"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-36.36218)">
+    <rect
+       y="40.362183"
+       x="4"
+       height="1012"
+       width="596"
+       id="rect2987"
+       style="fill:#c8c8c8;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="596"
+       height="1012"
+       x="0"
+       y="36.362183" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gulim;-inkscape-font-specification:Gulim"
+       x="56"
+       y="568.36212"
+       id="text3780"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3782"
+         x="56"
+         y="568.36212" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gulim;-inkscape-font-specification:Gulim"
+       x="226.00002"
+       y="102.04578"
+       id="text3830"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3832"
+         x="226.00002"
+         y="102.04578"
+         style="font-size:54px;font-weight:bold;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold">DOTS</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#f50000;fill-opacity:1;stroke:none"
+       id="path3798"
+       sodipodi:cx="-46.400002"
+       sodipodi:cy="3.9000001"
+       sodipodi:rx="8.1999998"
+       sodipodi:ry="2.7"
+       d="m -38.200002,3.9000001 a 8.1999998,2.7 0 1 1 -16.399999,0 8.1999998,2.7 0 1 1 16.399999,0 z"
+       transform="matrix(1.2195122,0,0,3.7037036,120.58537,411.97636)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#141414;fill-opacity:1;stroke:none"
+       id="path3798-3"
+       sodipodi:cx="-46.400002"
+       sodipodi:cy="3.9000001"
+       sodipodi:rx="8.1999998"
+       sodipodi:ry="2.7"
+       d="m -38.200002,3.9000001 a 8.1999998,2.7 0 1 1 -16.399999,0 8.1999998,2.7 0 1 1 16.399999,0 z"
+       transform="matrix(1.2195122,0,0,3.7037036,120.58537,300.37088)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#00f500;fill-opacity:1;stroke:none"
+       id="path3798-5"
+       sodipodi:cx="-46.400002"
+       sodipodi:cy="3.9000001"
+       sodipodi:rx="8.1999998"
+       sodipodi:ry="2.7"
+       d="m -38.200002,3.9000001 a 8.1999998,2.7 0 1 1 -16.399999,0 8.1999998,2.7 0 1 1 16.399999,0 z"
+       transform="matrix(1.2195122,0,0,3.7037036,120.58537,521.699)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#0000f5;fill-opacity:1;stroke:none"
+       id="path3798-2"
+       sodipodi:cx="-46.400002"
+       sodipodi:cy="3.9000001"
+       sodipodi:rx="8.1999998"
+       sodipodi:ry="2.7"
+       d="m -38.200002,3.9000001 a 8.1999998,2.7 0 1 1 -16.399999,0 8.1999998,2.7 0 1 1 16.399999,0 z"
+       transform="matrix(1.2195122,0,0,3.7037036,120.58537,628.91774)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#f500f5;fill-opacity:1;stroke:none"
+       id="path3798-0"
+       sodipodi:cx="-46.400002"
+       sodipodi:cy="3.9000001"
+       sodipodi:rx="8.1999998"
+       sodipodi:ry="2.7"
+       d="m -38.200002,3.9000001 a 8.1999998,2.7 0 1 1 -16.399999,0 8.1999998,2.7 0 1 1 16.399999,0 z"
+       transform="matrix(1.2195122,0,0,3.7037036,120.58537,734.91774)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gulim;-inkscape-font-specification:Gulim"
+       x="100.42578"
+       y="322.75665"
+       id="text4009"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="100.42578"
+         y="322.75665"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+         id="tspan4013">Tap them.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4015"
+       y="436.81531"
+       x="98.375"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+       xml:space="preserve"><tspan
+         id="tspan4019"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+         y="436.81531"
+         x="98.375"
+         sodipodi:role="line">DON'T TAP RED DOTS!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gulim;-inkscape-font-specification:Gulim"
+       x="99.332031"
+       y="542.53796"
+       id="text4023"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="99.332031"
+         y="542.53796"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+         id="tspan4027">Quick but give more score.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gulim;-inkscape-font-specification:Gulim"
+       x="98"
+       y="526.36212"
+       id="text4029"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4031"
+         x="98"
+         y="526.36212" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4033"
+       y="652.75671"
+       x="98.375"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gulim;-inkscape-font-specification:Gulim"
+       xml:space="preserve"><tspan
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+         y="652.75671"
+         x="98.375"
+         sodipodi:role="line"
+         id="tspan4041">Turn into Black Dots when tapped.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gulim;-inkscape-font-specification:Gulim"
+       x="98.375"
+       y="759.75671"
+       id="text4043"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="98.375"
+         y="759.75671"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+         id="tspan3133">Alternate between Purple and Red. </tspan><tspan
+         sodipodi:role="line"
+         x="98.375"
+         y="794.75671"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+         id="tspan3117">Become Blue Dots when tapped.</tspan></text>
+  </g>
+</svg>

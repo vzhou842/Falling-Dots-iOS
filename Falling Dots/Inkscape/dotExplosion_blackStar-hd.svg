@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg3790"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="dotExplosion_blackStar-hd.svg"
+   inkscape:export-filename="/Users/Victor/Documents/Custom/XCode/FALLING DOTS/Falling Dots 1.5.0/Falling Dots/Resources/dotExplosion_blackStar.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3792" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="-48.069893"
+     inkscape:cy="12.500222"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3795">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.3622)">
+    <path
+       sodipodi:type="star"
+       style="fill:#141414;fill-opacity:0.68627451;stroke:none"
+       id="path3951"
+       sodipodi:sides="5"
+       sodipodi:cx="-70.75"
+       sodipodi:cy="18.75"
+       sodipodi:r1="29.910282"
+       sodipodi:r2="13.459626"
+       sodipodi:arg1="2.8797933"
+       sodipodi:arg2="3.5081118"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -99.641114,26.49135 16.32547,-12.564849 -3.724662,-20.2613749 16.994728,11.6436937 18.118729,-9.8034741 -5.82215,19.7610463 14.922653,14.202495 -20.593016,0.569305 -8.896022,18.581099 -6.905033,-19.409197 z"
+       transform="matrix(1.7549737,0.10285208,0.0979256,-1.8432635,172.27335,1049.4182)"
+       inkscape:transform-center-x="-0.054925811"
+       inkscape:transform-center-y="-5.2180708" />
+  </g>
+</svg>
